@@ -1,3 +1,6 @@
 [submodule "repo"]
 	path = .repo
 	url = https://github.com/kisslinux/repo
+[submodule "badWolf"]
+	path = badWolf
+	url = https://gitlab.com/lanodan/badWolf.git
