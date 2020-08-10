@@ -4,3 +4,6 @@
 [submodule "badWolf"]
 	path = badWolf
 	url = https://gitlab.com/lanodan/badWolf.git
+[submodule "tuitube"]
+	path = tuitube
+	url = https://gitlab.com/djt3/tuitube
