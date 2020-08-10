@@ -4,6 +4,3 @@
 [submodule "badWolf"]
 	path = badWolf
 	url = https://gitlab.com/lanodan/badWolf.git
-[submodule "xf86-input-libinput"]
-	path = xf86-input-libinput
-	url = https://gitlab.com/m2x.dev/arch/packages/extra/xf86-input-libinput.git
